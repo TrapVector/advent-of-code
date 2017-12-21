@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventOfCode2017.Days
 {
-	public class Day10 : Days.IDay
+	public class Day10 : IDay
 	{
 		private int[]  Part1Input = { 106, 16, 254, 226, 55, 2, 1, 166, 177, 247, 93, 0, 255, 228, 60, 36 };
 		private string Part2Input = "106,16,254,226,55,2,1,166,177,247,93,0,255,228,60,36";

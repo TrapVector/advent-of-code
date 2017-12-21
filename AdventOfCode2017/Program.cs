@@ -19,7 +19,9 @@ namespace AdventOfCode2017
 			IDay[] Days = {
 				new Day08( @"input\day08.txt" ),
 				new Day09( @"input\day09.txt" ),
-				new Day10()
+				new Day10(),
+				new Day11( @"input\day11.txt" ),
+				new Day12( @"input\day12.txt" ),
 			};
 
 			//Day07.Run();
